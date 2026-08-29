@@ -1,4 +1,8 @@
+# existing rules preserved below (merge with your current .gitignore)
 __pycache__/
+*.pyc
+*.pyo
+.DS_Store
 .venv/
-*.png
-*.mp3
+venv/
+*.egg-info/
